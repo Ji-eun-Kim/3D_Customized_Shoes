@@ -101,4 +101,33 @@ I want anyone to make easily own customization shoes. And I hope to made 3d shoe
 </div>
 
 
-- **You can see the project through pdf file specifically.**
+## 느낀점 및 한계점
+
+약 **6개월 동안 진행한** 첫 컨퍼런스 참여는 정말 의미있었다. 팀원들과의 협업을 통해 얻은 성취감은 상상 이상이었고, 나 자신에게는 **새로운 성장의 기회**를 가지게 해준 프로젝트였다. 프로젝트를 통해 얻은 지식과 경험을 **컨퍼런스에서 발표하고 공유하는 과정은 매우 소중한 경험**이었으며, 이번 경험을 통해 더 많은 프로젝트에 참여하고자 하는 욕구를 더욱 강하게 만들어주었다. 앞으로의 프로젝트에서도 이러한 성장과 협업의 경험을 더욱 향상시키고 싶다.     
+
+<br>
+
+<br>
+
+## 팀원 및 담당 역할  
+
+<팀원>  
+- 전공생 5명   
+
+<br>
+  
+<담당 역할>    
+- SAM을 통한 segmentation 수행 및 mask 생성
+- Style Transfer - CAP-VSTNet 연구
+- Composition 코드 구현
+- 전체 일정 관리
+- 홀로그램 / 발표 PPT 제작
+
+<br/>
+
+<br>
+
+## 발표 자료 
+
+- 발표 자료  
+https://drive.google.com/file/d/1Jt1fnHNPGgiIQA1vgt_MnyuqAvgECDib/view?usp=sharing  
