@@ -1,7 +1,4 @@
-<h1 align="center">  3D Shoes Customization : Style Transfer & 3D Reconstruction </h1>
-
-## 3D Shoes Customization : Style Transfer & 3D Reconstruction </h1>
-
+<h1 align="center">  3D Shoes Customization : Style Transfer & 3D Reconstruction </h1>  
 
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
