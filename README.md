@@ -44,7 +44,7 @@ Task는 총 3가지로, 1. **[Segment Anything Model]**(Segmentation), 2. **[CAP
 
 
 3. **Dream Gaussian(3D Reconstruction)**  
-이후, style이 새로 적용된 image로 3D Reconstruction을 진행하였다. 이 때 사용한 모델은 **DreamGaussian: Generative Gaussian Splatting for Efficient 3D Content Creation**을 사용하였다. 커스텀된 image를 input으로 하여, Dream Gaussian에서 파라미터 튜닝과 같은 과정을 통해 성능을 향상시켜 3D Reconstruction하였다. 
+이후, style이 새로 적용된 image로 3D Reconstruction을 진행하였다. 이 때 사용한 모델은 **DreamGaussian: Generative Gaussian Splatting for Efficient 3D Content Creation**을 사용하였다. 단 하나의 image를 input으로 넣게 되면 2D -> 3D로 output이 나오게 된다. 더 나은 성능 향상을 위해 **One-2-3-45** Model을 추가로 사용하였다. 해당 모델은 input으로 들어온 image에 대한 객체의 각도를 인식해주는 모델이며, 해당 모델을 통해 Dream Gaussian에 image와 각도(option)으로 넣어 성능을 향상시켰다. 
 
 
 <br>
