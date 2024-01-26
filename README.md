@@ -1,4 +1,7 @@
-<h1 align="center" style="font-size: 20px;"> 3D Shoes Customization : Style Transfer & 3D Reconstruction </h1>
+<h1 align="center">  3D Shoes Customization : Style Transfer & 3D Reconstruction </h1>
+
+## 3D Shoes Customization : Style Transfer & 3D Reconstruction </h1>
+
 
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
@@ -58,7 +61,8 @@ Task는 총 3가지로, 1. **[Segment Anything Model]**(Segmentation), 2. **[CAP
 <br>
 
 <p float="center">
-  <img src="video.gif" alt="Animated gif pacman game" height="450px" width="700px" />
+  <div align="center">
+  <img src="video.gif" alt="Animated gif pacman game" height="350px" width="600px" />
 </p>
 
 </div>
