@@ -56,7 +56,7 @@ Task는 총 3가지로, 1. **[Segment Anything Model]**(Segmentation), 2. **[CAP
 <br>
 <div align="left">
 
-## 5. Demo Gif & transfered images 
+## 5. Demo Gif & Transferred Images 
 
 <br>
 
