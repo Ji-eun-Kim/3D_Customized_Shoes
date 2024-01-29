@@ -93,9 +93,9 @@ Task는 총 3가지로, 1. **[Segment Anything Model]**(Segmentation), 2. **[CAP
 <br>
   
 <담당 역할>    
-- SAM을 통한 segmentation 수행 및 mask 생성
-- Style Transfer - CAP-VSTNet 연구
-- Composition 코드 구현  
+- SAM(Segment Anything Model) 실험 및 mask 생성
+- CAP-VSTNet(Style Transfer) 실험
+- Composition 코드 구현 
 
 <br/>
 
