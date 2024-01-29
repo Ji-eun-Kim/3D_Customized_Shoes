@@ -1,6 +1,9 @@
-<h1 align="center">  3D Shoes Customization : Style Transfer & 3D Reconstruction </h1>  
+<h2 align="center">  3D Shoes Customization : Style Transfer & 3D Reconstruction </h2>  
+<h3 align="center"> 빅데이터분석학회 D&A Conference </h3>  
+<h4 align="center"> (2023.08. ~ 2023.11.) </h4>  
 
-![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
+
+![Aqua Lines](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)  
 
 <br>
 
